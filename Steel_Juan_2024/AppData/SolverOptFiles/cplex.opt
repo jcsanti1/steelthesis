@@ -1,0 +1,12 @@
+scaind -1
+numericalemphasis 1
+rerun yes
+iis 1
+lpmethod 4
+baralg 1
+barcrossalg 2
+barorder 3
+THREADS 18
+barepcomp 1e-11
+advind 0
+names no
